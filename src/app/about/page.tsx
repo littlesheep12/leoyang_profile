@@ -11,7 +11,7 @@ export default function AboutPage() {
     >
       <div className="order-2 lg:order-1 lg:w-2/3">
         <MotionDiv delayOffset={0.2}>
-          <h2 className="mb-3 w-full text-center md:mb-6">About Me</h2>
+          <h2 className="mb-3 w-full text-center md:mb-6">About Me:</h2>
         </MotionDiv>
         <article className="flex flex-col gap-4">
           <MotionDiv delayOffset={0.4}>
